@@ -1,0 +1,23 @@
+{
+  "name": "PWA APP",
+  "short_name": "PWA",
+  "theme_color": "#4382b4",
+  "background_color": "#4d86b4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+       {
+      "src": "/icons/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+      {
+      "src": "/icons/512.png",
+      "sizes": "512x512"
+    }, 
+      {
+      "src": "/icons/LargeTile.scale-125.png",
+      "sizes": "388x388"
+    }
+  ]
+}
